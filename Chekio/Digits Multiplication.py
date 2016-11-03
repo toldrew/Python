@@ -1,7 +1,4 @@
-def checkio(number):
-    number=str(number)
-    p=1
-    for i in number:
-        if i != '0': p*=int(i)
-    return p
-print(checkio(1111))
+from functools import reduce
+def checkio(n):
+    return reduce(lambda a,b:a*b if b!=0 else a,map(int,str(n)),1)
+print(checkio(2041))

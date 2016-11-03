@@ -14,16 +14,21 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Chekio$Hamming_Distance.coverage" NAME="Hamming Distance Coverage Results" MODIFIED="1477820271205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chekio$Min_and_Max.coverage" NAME="Min and Max Coverage Results" MODIFIED="1477388868116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chekio$Restricted_sum.coverage" NAME="Restricted sum Coverage Results" MODIFIED="1477560801677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chekio$Verify_Anagrams.coverage" NAME="Verify Anagrams Coverage Results" MODIFIED="1477551386524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Chekio$Digits_Multiplication.coverage" NAME="Digits Multiplication Coverage Results" MODIFIED="1477450387980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chekio$Striped_Words.coverage" NAME="Striped Words Coverage Results" MODIFIED="1477905516124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chekio$Digits_Multiplication.coverage" NAME="Digits Multiplication Coverage Results" MODIFIED="1478148082548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chekio$Right_to_Left.coverage" NAME="Right to Left Coverage Results" MODIFIED="1477449724283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chekio$Binary_count.coverage" NAME="Binary count Coverage Results" MODIFIED="1477557559268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chekio$Common_Words.coverage" NAME="Common Words Coverage Results" MODIFIED="1477557456249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chekio$Absolute_sorting.coverage" NAME="Absolute sorting Coverage Results" MODIFIED="1477550478396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Chekio$Roman_Numerals.coverage" NAME="Roman Numerals Coverage Results" MODIFIED="1477384622231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chekio$Even_the_last.coverage" NAME="Even the last Coverage Results" MODIFIED="1477449285240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chekio$Hidden_Word.coverage" NAME="Hidden Word Coverage Results" MODIFIED="1478159740955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chekio$Count_Ingots.coverage" NAME="Count Ingots Coverage Results" MODIFIED="1478137182897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chekio$Roman_Numerals.coverage" NAME="Roman Numerals Coverage Results" MODIFIED="1477384622231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chekio$List_Combitation.coverage" NAME="List Combitation Coverage Results" MODIFIED="1477906466522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chekio$Pawn_Brotherhood.coverage" NAME="Pawn Brotherhood Coverage Results" MODIFIED="1477377207724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -34,12 +39,12 @@
     <favorites_list name="Chekio" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Restricted sum.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Restricted sum.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Hidden Word.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hidden Word.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            <state relative-caret-position="142">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -62,12 +67,18 @@
         <option value="$PROJECT_DIR$/Min and Max.py" />
         <option value="$PROJECT_DIR$/Even the last.py" />
         <option value="$PROJECT_DIR$/Right to Left.py" />
-        <option value="$PROJECT_DIR$/Digits Multiplication.py" />
         <option value="$PROJECT_DIR$/Absolute sorting.py" />
         <option value="$PROJECT_DIR$/Verify Anagrams.py" />
         <option value="$PROJECT_DIR$/Common Words.py" />
         <option value="$PROJECT_DIR$/Binary count.py" />
         <option value="$PROJECT_DIR$/Restricted sum.py" />
+        <option value="$PROJECT_DIR$/Hamming Distance.py" />
+        <option value="$PROJECT_DIR$/Striped Words.py" />
+        <option value="$PROJECT_DIR$/List Combitation.py" />
+        <option value="$PROJECT_DIR$/Count Ingots.py" />
+        <option value="$PROJECT_DIR$/Broken Reports.py" />
+        <option value="$PROJECT_DIR$/Digits Multiplication.py" />
+        <option value="$PROJECT_DIR$/Hidden Word.py" />
       </list>
     </option>
   </component>
@@ -108,6 +119,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -129,7 +141,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -137,8 +148,8 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.Restricted sum">
-    <configuration default="false" name="Absolute sorting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Hidden Word">
+    <configuration default="false" name="Striped Words" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -151,12 +162,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Chekio" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Absolute sorting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Striped Words.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Verify Anagrams" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="List Combitation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -169,12 +180,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Chekio" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verify Anagrams.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List Combitation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Common Words" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Count Ingots" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -187,12 +198,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Chekio" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Common Words.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Count Ingots.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Binary count" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Digits Multiplication" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -205,12 +216,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Chekio" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary count.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Digits Multiplication.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Restricted sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Hidden Word" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -223,7 +234,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Chekio" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Restricted sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hidden Word.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -454,19 +465,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Absolute sorting" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Verify Anagrams" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Common Words" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Binary count" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Restricted sum" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Striped Words" />
+      <item index="1" class="java.lang.String" itemvalue="Python.List Combitation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Count Ingots" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Digits Multiplication" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Hidden Word" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Restricted sum" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Binary count" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Common Words" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Verify Anagrams" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Absolute sorting" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Hidden Word" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Digits Multiplication" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Count Ingots" />
+        <item index="3" class="java.lang.String" itemvalue="Python.List Combitation" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Striped Words" />
       </list>
     </recent_temporary>
   </component>
@@ -541,6 +552,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -568,18 +584,64 @@
           <line>3</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Striped Words.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Count Ingots.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Hidden Word.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="13" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="lst" language="Python" />
+        <watch expression="i" language="Python" />
+        <watch expression="j" language="Python" />
+        <watch expression="lst[i][j]" language="Python" />
         <watch expression="s" language="Python" />
-        <watch expression="len(lst)" language="Python" />
+        <watch expression="f_w" language="Python" />
+        <watch expression="m" language="Python" />
+        <watch expression="lst[i+(v*m)][j + (v*m)]" language="Python" />
+        <watch expression="v" language="Python" />
+        <watch expression="l" language="Python" />
+        <watch expression="i+(v*m)" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Broken Reports.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Striped Words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Restricted sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Pawn Brotherhood.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -642,13 +704,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Digits Multiplication.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Absolute sorting.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -675,14 +730,67 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Restricted sum.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hamming Distance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Striped Words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/List Combitation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Count Ingots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Broken Reports.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Digits Multiplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hidden Word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
           <folding />
         </state>
       </provider>
